@@ -1,6 +1,14 @@
 # UUID to Picture
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub release](https://img.shields.io/github/v/release/dykyi-roman/uuid-to-picture)
+![No Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
 A client-side web application that converts UUIDs into visual dot-matrix representations and back. No server, no frameworks, no dependencies — just vanilla JavaScript, HTML, and CSS.
+
+## Live Demo
+
+[https://dykyi-roman.github.io/uuid-to-picture/](https://dykyi-roman.github.io/uuid-to-picture/)
 
 ## Screenshots
 
